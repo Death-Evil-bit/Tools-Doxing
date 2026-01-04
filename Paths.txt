@@ -1,0 +1,27 @@
+# Common school website paths
+/admin
+/login
+/siswa
+/guru
+/nilai
+/rapor
+/akademik
+/keuangan
+/absensi
+/laporan
+/data
+/export
+/report
+/daftar
+/registrasi
+/pendaftaran
+/informasi
+/pengumuman
+/berita
+/agenda
+/galeri
+/download
+/upload
+/backup
+/database
+/phpmyadmin
