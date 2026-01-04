@@ -1,0 +1,13 @@
+# Common Indonesian School Management Systems
+SIAKAD - Sistem Informasi Akademik
+SIMPEG - Sistem Informasi Kepegawaian
+SIMPONI - Sistem Informasi Monitoring
+DAPODIK - Data Pokok Pendidikan
+e-Rapor - Rapor Digital
+SIPLah - Sistem Informasi Pengadaan
+SEVIMA - Sistem Edukasi
+SCHOOLPRESS - WordPress for Schools
+OPENSIS - Open Source Student System
+FEDENA - School ERP System
+GIBBON - School Platform
+MOODLE - Learning Platform
